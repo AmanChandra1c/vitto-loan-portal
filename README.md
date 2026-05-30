@@ -68,7 +68,7 @@ npm run dev
 
 ## Live URL
 
-[Live](https://vitto-loan-portal.vercel.app/)
+[https://vitto-loan-portal.vercel.app/](https://vitto-loan-portal.vercel.app/)
 
 ## API Endpoints
 ### Applications
